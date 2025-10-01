@@ -1,4 +1,4 @@
-# GenoPredictX: XGBoost-based Genetic Variant Classifier  
+# Genome-IQ: XGBoost-based Genetic Variant Classifier  
 
 > 🧬 A machine learning pipeline for predicting **disease phenotypes from genetic variants** using **XGBoost** and a **ColumnTransformer** for preprocessing.  
 
