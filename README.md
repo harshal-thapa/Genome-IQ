@@ -48,12 +48,3 @@ GenoPredictX/
 │── app.py # Optional: Streamlit/FastAPI app
 
 
----
-
-## 🚀 Installation  
-
-Clone the repo:  
-```bash
-git clone https://github.com/AyushAI/GenoPredictX.git
-cd GenoPredictX
-```
